@@ -1,3 +1,4 @@
 # arr2csv
-`yarn`
-`yarn start`
+## Start:
+- `yarn`
+- `yarn start`
